@@ -27,7 +27,7 @@ void printAdjList(int n);
 void main() {
     int n, i, s, ch, j;
     char c, dummy;
-    printf("ENTER THE NUMBER VERTICES : ");
+    printf("Enter the no. of vertices : ");
     scanf("%d", &n);
 
     for (i = 1; i <= n; i++) {
@@ -63,9 +63,9 @@ void main() {
         printf("\n2.B.F.S (Adjacency List)");
         printf("\n3.D.F.S (Adjacency Matrix)");
         printf("\n4.D.F.S (Adjacency List)");
-        printf("\nENTER YOUR CHOICE : ");
+        printf("\nEnter your choice: ");
         scanf("%d", &ch);
-        printf("ENTER THE SOURCE VERTEX : ");
+        printf("Enter the start vertex : ");
         scanf("%d", &s);
 
         switch (ch) {
