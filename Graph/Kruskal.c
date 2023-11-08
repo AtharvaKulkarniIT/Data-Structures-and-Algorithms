@@ -16,7 +16,7 @@ int main() {
 
     for (i = 1; i <= n; i++) {
         for (j = 1; j <= n; j++) {
-            printf("Enter the weight of edge from [%d] -> [%d]: ", i, j);
+            printf("Enter the weight of edge from [%d] to [%d]: ", i, j);
             scanf("%d", &cost[i][j]);
             if (cost[i][j] == 0)
                 cost[i][j] = 999;
