@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<conio.h>
 
-int visited[10]={0}, cost[10][10], min, mincost=0;
+int visited[100]={0}, cost[100][100], min, mincost=0;
 int input(int);
 int display(int);
 int prims(int);
