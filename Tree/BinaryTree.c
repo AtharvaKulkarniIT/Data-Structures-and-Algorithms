@@ -144,16 +144,21 @@ int d;
 printf("Enter ( -1 ) for no node ");
 printf("\nEnter root node data: ");
 scanf("%d", &d);
+ 
 struct node *root = create(d);
+ 
 printf("\nPre-order traversal: ");
 preOrder(root);
 printf("\n");
+ 
 printf("In-order traversal: ");
 inOrder(root);
 printf("\n");
+ 
 printf("Post-order traversal: ");
 postOrder(root);
 printf("\n");
+ 
 printf("Level-order traversal: ");
 levelOrder(root);
 printf("\n");
