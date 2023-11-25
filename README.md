@@ -10,9 +10,9 @@ Explore the world of Data Structures and Algorithms in C with this repository. F
 
 ### Data Structures
 
-- [Linked List](data_structures/linked_list/)
+- [Linked List](Data_structures/linked_list/)
 - [Stack](data_structures/stack/)
-- [Queue](data_structures/queue/)
+- [Queue](Data-Structures-and-Algorithms/Queue/)
 - [Binary Tree](data_structures/binary_tree/)
 - [Hash Table](data_structures/hash_table/)
 - [Graph](data_structures/graph/)
