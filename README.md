@@ -6,7 +6,7 @@
 <a href="https://github.com/AtharvaKulkarniIT/Data-Structures-and-Algorithms/network/members"><img src="https://img.shields.io/github/forks/AtharvaKulkarniIT/Data-Structures-and-Algorithms" alt="Forks Badge"/></a>
 <a href="https://github.com/AtharvaKulkarniIT/Data-Structures-and-Algorithms/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AtharvaKulkarniIT/Data-Structures-and-Algorithms?color=green"></a>
 
-Explore the world of Data Structures and Algorithms in C with this repository. Find efficient and well-documented C code implementations of essential DSA concepts to enhance your programming skills and problem-solving abilities .
+Explore the world of Data Structures and Algorithms in C/C++ with this repository. Find efficient and well-documented C/C++ code implementations of essential DSA concepts to enhance your programming skills and problem-solving abilities .
 
 ## How to Use
 
